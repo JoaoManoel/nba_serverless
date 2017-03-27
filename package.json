@@ -1,0 +1,22 @@
+{
+  "name": "nba_serverless",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/JoaoManoel/nba_serverless.git"
+  },
+  "author": "João Manoel Lins <joaomanoellins@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/JoaoManoel/nba_serverless/issues"
+  },
+  "homepage": "https://github.com/JoaoManoel/nba_serverless#readme",
+  "dependencies": {
+    "axios": "^0.15.3"
+  }
+}
